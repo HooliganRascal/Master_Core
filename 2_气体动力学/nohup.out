@@ -1,0 +1,14 @@
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[18110:18141:1015/150042.654434:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[18110:18141:1015/150042.661464:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18110:18141:1015/150106.396280:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18110:18141:1015/150107.242186:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[18110:18141:1015/150149.955626:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18110:18141:1015/150159.890130:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[18110:18141:1015/150349.044109:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18110:18141:1015/150356.283307:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[18110:18141:1015/150651.892986:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18110:18141:1015/150724.742189:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[18110:18141:1015/151314.935853:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18110:18141:1015/151518.928088:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[18110:18110:1015/152340.776771:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
